@@ -1,0 +1,17 @@
+baseURL = "http://glim-midnight.pages.dev"
+languageCode = "en-us"
+theme = "glim-midnight"
+
+[params]
+    title = "Himel Ahmed"
+    phrases = ["Cybersecurity Researcher", "Student", "CTF Playe"]
+    links = [
+    {name = "Linedin", url = "https://www.linkedin.com/in/0xw1zard/"},
+    {name = "Github", url = "https://github.com/0xW1zard"},   
+    {name = "Medium", url = "https://medium.com/@0xW1zard"},
+    {name = "Telegram", url = "https://web.telegram.org/k/#@w1zard963"},
+    {name = "Facebook", url = "https://www.facebook.com/0xW1zard/"},     
+    {name = "Instagram", url = "https://www.instagram.com/0xw1zard/"},    
+        
+    ] 
+    background = "bg.mp4"
